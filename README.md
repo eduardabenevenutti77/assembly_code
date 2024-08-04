@@ -6,7 +6,7 @@ Bem-vindo ao repositório do projeto **Hello World** em Assembly! Este repositó
 
 ## Estrutura do Projeto
 
-- **hello_world.asm**: Arquivo fonte do programa "Hello World" em Assembly.
+- **index.asm**: Arquivo fonte do programa "Hello World" em Assembly.
 
 ## Pré-requisitos
 
