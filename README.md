@@ -27,15 +27,15 @@ Para executar o código deste repositório, você precisará de:
     ```
 3. Compile o código fonte usando o NASM:
     ```sh
-    nasm -f elf32 hello_world.asm
+    nasm -f elf32 index.asm
     ```
 4. Link o arquivo objeto criado:
     ```sh
-    ld -m elf_i386 -s -o hello_world hello_world.o
+    ld -m elf_i386 -s -o index index.o
     ```
 5. Execute o programa:
     ```sh
-    ./hello_world
+    ./index
     ```
 
 ###### Ou acesse um compilador on-line!
